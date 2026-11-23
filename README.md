@@ -1,6 +1,6 @@
-### Sistema de Préstamos de Biblioteca 
-# Aplicación en Java para gestionar los préstamos de una biblioteca. Permite registrar libros y 
-# socios, prestar libros disponibles (máximo 3 por socio) y devolverlos. 
+# Sistema de Préstamos de Biblioteca 
+Aplicación en Java para gestionar los préstamos de una biblioteca. Permite registrar libros y 
+socios, prestar libros disponibles (máximo 3 por socio) y devolverlos. 
 ## Uso 
 1. Clona el repositorio: 
 git clone https://github.com/victorvergelgregorio/ApellidoNombreExamen2026-27.git 
